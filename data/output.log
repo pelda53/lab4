@@ -1,0 +1,1 @@
+LogRecord[timestamp=2026-10-13T10:01, clientIp=10.0.0.1, method=null, path=/api/v1/login, status=401, responseSize=0]

@@ -1,0 +1,3 @@
+LogRecord[timestamp=2026-10-13T10:00, clientIp=127.0.0.1, method=null, path=/api/v1/users, status=200, responseSize=0]
+LogRecord[timestamp=2026-10-13T10:01, clientIp=10.0.0.1, method=null, path=/api/v1/login, status=401, responseSize=0]
+LogRecord[timestamp=2026-10-13T10:02, clientIp=192.168.1.1, method=null, path=/index.html, status=500, responseSize=0]
